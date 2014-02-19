@@ -1,0 +1,4 @@
+ManagedSockets
+==============
+
+Linux Sockets Project
